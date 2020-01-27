@@ -1,4 +1,3 @@
 *system/
 log/**/*.log
 *.js
-!hello.js
